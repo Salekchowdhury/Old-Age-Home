@@ -13,7 +13,6 @@ class Registration extends DB
 {
     public
         $fullname,
-        $name,
         $email,
         $member_id,
         $pass,
